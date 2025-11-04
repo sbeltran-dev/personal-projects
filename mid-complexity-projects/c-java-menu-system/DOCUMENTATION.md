@@ -62,7 +62,7 @@ The function that will display the menu with all available options in the termin
 
 **Output:**
 ```
-═══════════════ PROJECT MENU ═══════════════
+▌║█║▌│║▌│║▌║▌█║ PROJECT MENU ▌│║▌║▌│║║▌█║▌║█
 1. Show menu.
 2. Find Fibonacci Sequence.
 3. Numbers series summation.
