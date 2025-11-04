@@ -15,7 +15,7 @@ It displays a menu with 5 options to execute Java exercises (Fibonacci_Sequence,
 ## How to use it
 
 1. Enter these commands in the terminal: 
-- Compiling the C file:
+- To compile the C file:
 ```
    gcc MenuProject.c -o MenuProject
 ```
