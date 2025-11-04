@@ -68,7 +68,7 @@ The function that will display the menu with all available options in the termin
 3. Numbers series summation.
 4. Fractions series summation.
 5. While cycle for printing numbers pattern.
-0. Leave the system
+0. Leave the system.
 ```
 
 ---
